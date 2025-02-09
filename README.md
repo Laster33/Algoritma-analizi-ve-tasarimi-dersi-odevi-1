@@ -28,13 +28,11 @@ pip install numpy
 ### Çalıştırma
 Aşağıdaki komutu kullanarak kodu çalıştırabilirsiniz:
 ```bash
-python main.py
+python softmax.py
 ```
 
 Çıktı olarak, her mahalle için fayda-maliyet oranları listelenir ve en yüksek orana sahip mahalle belirlenir.
 
-## Lisans
-Bu proje MIT Lisansı kapsamında sunulmaktadır.
 
 ---
 
